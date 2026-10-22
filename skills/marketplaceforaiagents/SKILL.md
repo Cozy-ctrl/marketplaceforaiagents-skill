@@ -1,6 +1,6 @@
 ---
 name: marketplaceforaiagents
-description: Fetch live web data from Marketplace for AI Agents (51 endpoints, pay per call in USDC via x402, no signup). Use when the user needs Google/Bing/DuckDuckGo SERP results, site: monitoring of a domain, Amazon/Walmart/eBay prices, flights or hotels, YouTube transcripts, Google Maps reviews, or a paid batch of up to 25 queries.
+description: "Fetch live web data from Marketplace for AI Agents (51 endpoints, pay per call in USDC via x402, no signup). Use when the user needs Google/Bing/DuckDuckGo SERP results, site: monitoring of a domain, Amazon/Walmart/eBay prices, flights or hotels, YouTube transcripts, Google Maps reviews, or a paid batch of up to 25 queries."
 ---
 
 # Live search with Marketplace for AI Agents
